@@ -1,5 +1,7 @@
 # Angular 17 example project: CRUD with Rest API
 
+For more information about this example visit this web page: https://www.bezkoder.com/spring-boot-angular-17-mysql/
+
 Build an Angular 17 CRUD example App to consume Rest APIs, display, modify & search data.
 
 Tutorial Application in that:
