@@ -9,9 +9,10 @@ Tutorial Application in that:
 
 ![angular-17-crud-example](angular-17-crud-example.png)
 
-## How to Run the application
+## How to Run the Client Angular application
 
 ```
+npm install
 ng serve --port 8081
 ```
 
